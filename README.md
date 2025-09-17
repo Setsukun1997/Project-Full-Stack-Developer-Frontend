@@ -1,4 +1,3 @@
-# Project-Full-Stack-Developer-Frontend
 # 🚀 Project Full Stack Developer – Frontend
 
 A production-ready React frontend for a full stack web application. Built with modern tools and best practices, this app handles user authentication, protected routing, and dynamic CRUD operations. Designed to integrate seamlessly with a Node.js + Express backend and MongoDB Atlas database.
