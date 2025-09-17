@@ -27,6 +27,7 @@ A production-ready React frontend for a full stack web application. Built with m
 
 ## 📦 Folder Structure
 
+<img width="330" height="384" alt="Screenshot 2025-09-17 140518" src="https://github.com/user-attachments/assets/32ef32b7-cc85-4828-94b6-140d95a290a2" />
 
 
 ---
