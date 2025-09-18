@@ -9,6 +9,7 @@ const Dashboard = () => {
   const [error, setError] = useState(null);
 
   const backendURL = 'https://project-full-stack-developer-backend.onrender.com/api/tasks'; // เปลี่ยนเป็น URL จริงของคุณ
+  const backendURL = process.env.REACT_APP_BACKEND_URL;
 
   useEffect(() => {
     axios.get(backendURL)
